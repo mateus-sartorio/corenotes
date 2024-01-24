@@ -1,6 +1,6 @@
 <p align="center"><img align="center" width="280" src="./.github/logo-light.svg#gh-light-mode-only"/></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,next,react,redux" /> <br/>
+  <img src="https://skillicons.dev/icons?i=typescript,next,react,redux,sass" /> <br/>
   <img src="https://skillicons.dev/icons?i=docker,nodejs,mongo,express,jest" /> <br/>
   <a href="https://github.com/mateus-sartorio/corenotes"><kbd>🔵 GitHub</kbd></a>
 </p>
